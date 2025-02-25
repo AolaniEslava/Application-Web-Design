@@ -10,9 +10,7 @@
 
 
 ##Qué es markdowm?
-Es un lenguaje de marcado que permite darle formato a cualquier texto plano para que así, sin importar en qué lenguaje esté, este saldrá limpio.
-Por ejemplo:
-HTML: < h1> titulo</ h1?
-Markdown: #titulo
+Es un lenguaje de marcado que permite darle formato a cualquier texto plano para que así, este siempre limpio.
+
 
 
